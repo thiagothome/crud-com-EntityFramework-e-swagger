@@ -27,10 +27,6 @@ Este documento tem o objetivo de fornecer informações sobre como criar uma apl
 
 4. **Criação das Operações CRUD**:
    - Implemente métodos para criar, ler, atualizar e excluir (CRUD) dados usando o Entity Framework.
-   
-5. **Documentação da API com Swagger**:
-   - Configure o Swagger em sua aplicação .NET para gerar automaticamente a documentação da API.
-   - Anote seus controladores e modelos com atributos do Swagger para gerar a documentação correta.
-
+  
 6. **Teste e Validação**:
    - Teste cada operação CRUD para garantir que elas estejam funcionando corretamente.
